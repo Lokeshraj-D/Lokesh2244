@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lokesh2244
-- 👀 I’m interested in doing projects
-- 🌱 I’m currently learning CSS/JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 Interested in doing projects
+- 🌱 Currently learning CSS/JS
+- 💞️ Looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
